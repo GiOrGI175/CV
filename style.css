@@ -1,0 +1,32 @@
+body {
+  background-color: #f0f0f0;
+}
+
+.jh {
+  text-align: center;
+  color: #0066c0;
+}
+
+.web1 {
+  text-align: center;
+  color: #333;
+}
+
+.web {
+  text-align: center;
+  color: #444;
+}
+
+.spantxt {
+  color: #555;
+  font-weight: 100;
+}
+
+.pclr {
+  color: #0066c0;
+  font-weight: bolder;
+}
+
+.pclr1 {
+  color: #cc3300;
+}
